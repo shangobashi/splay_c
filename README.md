@@ -366,7 +366,6 @@ docs(api): update endpoint documentation
 - [pgvector](https://github.com/pgvector/pgvector)
 
 ### Project Documentation
-- See `Documents/Documents_Claude_02_Master_forClaudeCodexAntigravity/` for complete specifications
 - **PRD:** `02_PRD.md`
 - **Architecture:** `03_SYSTEM_ARCHITECTURE.md`
 - **API Spec:** `04_API_SPECIFICATION.md`
